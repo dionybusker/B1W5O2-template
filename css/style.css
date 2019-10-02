@@ -21,13 +21,13 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-img {
+/* img {
     width: 1079px;
     height: 567px;
-}
+} */
 
 main {
-    width: 1079px;
+    /* width: 1px; */
     height: auto;
     margin: 0 auto;
 }
@@ -51,21 +51,26 @@ i {
     border: 0;
 } */
 
-.images {
+/* .images {
     position: relative;
-}
-
-.images .logo {
-    position: absolute;
-    top: 161px;
-    left: 420px;
-}
+} */
 
 .logo {
+    position: absolute;
+    top: 193px;
+    left: 649px;
     width: 240px;
     height: auto;
 }
 
-nav {
-    color: rgba(255, 255, 255, 0.8);
+.header {
+    background-image: url(../img/header_bg.jpg);
+    width: 1349px;
+    height: 667px;
+
 }
+
+/* .logo {
+    width: 240px;
+    height: auto;
+} */

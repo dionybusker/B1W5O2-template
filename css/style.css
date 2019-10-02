@@ -2,6 +2,70 @@
 
 /* font-family: 'Roboto', sans-serif; */
 
-body {
+/* body {
     background-image: url("../img/header_bg.jpg");
+} */
+
+/* img {
+    max-width: 1349px;
+    height: auto;
+    margin: 0 auto;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 1079px;
+    height: 567px;
+}
+
+main {
+    width: 1079px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.socialMedia {
+    margin: 0 33px 0 0;
+    text-align: right;
+}
+
+i {
+    background-color: rgb(202, 202, 202);
+    padding: 8px;
+    color: #fff;
+    /* margin: 25px; */
+    /* float: right; */
+    margin: 0 -3px 0 0;
+}
+
+/* i .fas fa-rss, i .fab fa-twitter, i .fab fa-facebook-f, i .fab fa-google-plus-g {
+    margin: 0;
+    border: 0;
+} */
+
+.images {
+    position: relative;
+}
+
+.images .logo {
+    position: absolute;
+    top: 161px;
+    left: 420px;
+}
+
+.logo {
+    width: 240px;
+    height: auto;
+}
+
+nav {
+    color: rgba(255, 255, 255, 0.8);
 }

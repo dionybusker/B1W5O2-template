@@ -43,8 +43,12 @@ main {
     height: 667px;
 }
 
-.headerImg {
+.headerBg {
     max-width: 1349px;
     max-height: auto;
 }
 
+.headerLogo {
+    width: 1349px;
+    height: auto;
+}

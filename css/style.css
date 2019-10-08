@@ -33,13 +33,13 @@ main {
 }
 
 .socialMedia {
-    margin: 0 33px 0 0;
+    margin: 0 40px 0 0;
     text-align: right;
 }
 
-i {
+.socialMedia i {
     background-color: rgb(202, 202, 202);
-    padding: 8px;
+    padding: 12px;
     color: #fff;
     /* margin: 25px; */
     /* float: right; */
@@ -57,17 +57,22 @@ i {
 
 .logo {
     position: absolute;
-    top: 193px;
-    left: 649px;
-    width: 240px;
+    top: 240px;
+    left: 525px;
+    width: 300px;
     height: auto;
 }
 
 .header {
-    background-image: url(../img/header_bg.jpg);
+    /* background-image: url(../img/header_bg.jpg); */
     width: 1349px;
     height: 667px;
+}
 
+.headerImg {
+    max-width: 1349px;
+    max-height: auto;
+    /* background-size: cover; */
 }
 
 /* .logo {

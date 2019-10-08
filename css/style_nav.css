@@ -7,11 +7,6 @@
     top: 422px;
     left: 290px;
 }
-/* 
-#navbar {
-    overflow: hidden;
-    background-color: #333;
-} */
 
 
 #navbar ul {
@@ -19,7 +14,6 @@
     overflow: hidden;
     margin: 0;
     padding: 0;
-    /* background-color: #333; */
 }
 
 #navbar li {

@@ -1,10 +1,10 @@
 /* styling menu */
 
-.container #navbar {
+.container {
     position: absolute;
     margin: auto;
     width: auto;
-    top: 125px;
+    top: 422px;
     left: 290px;
 }
 

@@ -28,7 +28,6 @@ main {
     margin: 0 -3px 0 0;
 }
 
-
 .logo {
     position: absolute;
     top: 240px;
@@ -51,4 +50,14 @@ main {
 .headerLogo {
     width: 1349px;
     height: auto;
+}
+
+.container {
+    background-color: rgb(131, 134, 140, 0.3);
+}
+
+section {
+    width: 960px;
+    margin: 10px auto;
+    padding: 0 0 10px 0;
 }

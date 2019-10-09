@@ -1,0 +1,42 @@
+/* styling menu */
+
+.container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+    top: 422px;
+    left: 290px;
+}
+
+#navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar li {
+    float: left;
+    padding: 0 6px;
+}
+
+#navbar li .name {
+    display: inline-block;
+    color: #fff;
+    text-align: center;
+    margin: 0 21px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+#navbar li .icon {
+    text-align: center;
+    color: rgb(202, 202, 202);
+    font-size: 26px;
+    margin: 0 0 10px 0;
+    opacity: 0.5;
+}
+
+#navbar li:hover {
+    opacity: 0.5;
+}

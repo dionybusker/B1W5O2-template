@@ -8,6 +8,14 @@
     left: 290px;
 }
 
+.containerTemplate {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+    top: 422px;
+    left: 290px;
+}
+
 
 #navbar ul {
     list-style-type: none;
